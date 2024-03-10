@@ -10,6 +10,8 @@ With the commands defined in the code, users can query information about the ser
 
 It is important to note that the correct bot token must be provided in the bot.run() function to run the bot. Additionally, proper error handling and logical organization of the code are important for readability.
 
+Write: /help
+
 ------------------------------------------------------------------------------------------------------------------
 
 
@@ -22,3 +24,5 @@ Az alkalmazás számos eseményre reagál, például a bot készre jelentésekor
 A kódban definiált parancsok segítségével a felhasználók lekérdezhetik a szerver tagjainak adatait, megnézhetik a szerver általános információit, vagy akár személyre szabott üzeneteket küldhetnek.
 
 Fontos megjegyezni, hogy a bot futtatásához szükséges a megfelelő bot token megadása a bot.run() függvényben. Ezen kívül fontos a hibakezelés megfelelő kezelése és a kód logikus szervezése a könnyebb olvashatóság érdekében.
+
+Írd: /help
